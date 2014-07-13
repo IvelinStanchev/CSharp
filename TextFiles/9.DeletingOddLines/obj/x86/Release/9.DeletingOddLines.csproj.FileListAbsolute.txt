@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\9.DeletingOddLines\bin\Release\9.DeletingOddLines.exe
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\9.DeletingOddLines\bin\Release\9.DeletingOddLines.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\9.DeletingOddLines\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\9.DeletingOddLines\obj\x86\Release\9.DeletingOddLines.exe
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\9.DeletingOddLines\obj\x86\Release\9.DeletingOddLines.pdb

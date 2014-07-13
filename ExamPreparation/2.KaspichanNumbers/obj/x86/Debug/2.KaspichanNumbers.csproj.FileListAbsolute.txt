@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\2.KaspichanNumbers\bin\Debug\2.KaspichanNumbers.exe
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\2.KaspichanNumbers\bin\Debug\2.KaspichanNumbers.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\2.KaspichanNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\2.KaspichanNumbers\obj\x86\Debug\2.KaspichanNumbers.exe
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\2.KaspichanNumbers\obj\x86\Debug\2.KaspichanNumbers.pdb

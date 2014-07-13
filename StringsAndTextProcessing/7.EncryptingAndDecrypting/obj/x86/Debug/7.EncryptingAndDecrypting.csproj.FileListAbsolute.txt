@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\7.EncryptingAndDecrypting\bin\Debug\7.EncryptingAndDecrypting.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\7.EncryptingAndDecrypting\bin\Debug\7.EncryptingAndDecrypting.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\7.EncryptingAndDecrypting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\7.EncryptingAndDecrypting\obj\x86\Debug\7.EncryptingAndDecrypting.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\7.EncryptingAndDecrypting\obj\x86\Debug\7.EncryptingAndDecrypting.pdb

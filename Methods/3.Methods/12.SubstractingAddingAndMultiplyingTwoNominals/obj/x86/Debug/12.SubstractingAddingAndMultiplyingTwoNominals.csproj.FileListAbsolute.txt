@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\12.SubstractingAddingAndMultiplyingTwoNominals\bin\Debug\12.SubstractingAddingAndMultiplyingTwoNominals.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\12.SubstractingAddingAndMultiplyingTwoNominals\bin\Debug\12.SubstractingAddingAndMultiplyingTwoNominals.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\12.SubstractingAddingAndMultiplyingTwoNominals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\12.SubstractingAddingAndMultiplyingTwoNominals\obj\x86\Debug\12.SubstractingAddingAndMultiplyingTwoNominals.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\12.SubstractingAddingAndMultiplyingTwoNominals\obj\x86\Debug\12.SubstractingAddingAndMultiplyingTwoNominals.pdb

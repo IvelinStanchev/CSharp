@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\6.IndexOfElement\bin\Debug\6.IndexOfElement.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\6.IndexOfElement\bin\Debug\6.IndexOfElement.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\6.IndexOfElement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\6.IndexOfElement\obj\x86\Debug\6.IndexOfElement.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\6.IndexOfElement\obj\x86\Debug\6.IndexOfElement.pdb

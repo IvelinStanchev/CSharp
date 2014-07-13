@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\03.CompanyAndManager\bin\Release\03.CompanyAndManager.exe
+C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\03.CompanyAndManager\bin\Release\03.CompanyAndManager.pdb
+C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\03.CompanyAndManager\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\03.CompanyAndManager\obj\x86\Release\03.CompanyAndManager.exe
+C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\03.CompanyAndManager\obj\x86\Release\03.CompanyAndManager.pdb

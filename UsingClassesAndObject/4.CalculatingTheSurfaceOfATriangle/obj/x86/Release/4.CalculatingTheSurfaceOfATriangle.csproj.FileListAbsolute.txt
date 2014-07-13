@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\4.CalculatingTheSurfaceOfATriangle\bin\Release\4.CalculatingTheSurfaceOfATriangle.exe
+C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\4.CalculatingTheSurfaceOfATriangle\bin\Release\4.CalculatingTheSurfaceOfATriangle.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\4.CalculatingTheSurfaceOfATriangle\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\4.CalculatingTheSurfaceOfATriangle\obj\x86\Release\4.CalculatingTheSurfaceOfATriangle.exe
+C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\4.CalculatingTheSurfaceOfATriangle\obj\x86\Release\4.CalculatingTheSurfaceOfATriangle.pdb

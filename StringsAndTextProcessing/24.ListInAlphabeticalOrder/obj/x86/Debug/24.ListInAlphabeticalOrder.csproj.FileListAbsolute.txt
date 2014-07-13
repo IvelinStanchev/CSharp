@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\24.ListInAlphabeticalOrder\bin\Debug\24.ListInAlphabeticalOrder.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\24.ListInAlphabeticalOrder\bin\Debug\24.ListInAlphabeticalOrder.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\24.ListInAlphabeticalOrder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\24.ListInAlphabeticalOrder\obj\x86\Debug\24.ListInAlphabeticalOrder.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\24.ListInAlphabeticalOrder\obj\x86\Debug\24.ListInAlphabeticalOrder.pdb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.HelloMethod\bin\Release\1.HelloMethod.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.HelloMethod\bin\Release\1.HelloMethod.pdb
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.HelloMethod\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.HelloMethod\obj\x86\Release\1.HelloMethod.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.HelloMethod\obj\x86\Release\1.HelloMethod.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\1.PrintHelloAndName\bin\Release\1.PrintHelloAndName.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\1.PrintHelloAndName\bin\Release\1.PrintHelloAndName.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\1.PrintHelloAndName\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\1.PrintHelloAndName\obj\x86\Release\1.PrintHelloAndName.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\1.PrintHelloAndName\obj\x86\Release\1.PrintHelloAndName.pdb

@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\10.CalculatingNFactorial\bin\Debug\10.CalculatingNFactorial.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\10.CalculatingNFactorial\bin\Debug\10.CalculatingNFactorial.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\10.CalculatingNFactorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\10.CalculatingNFactorial\obj\x86\Debug\10.CalculatingNFactorial.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\10.CalculatingNFactorial\obj\x86\Debug\10.CalculatingNFactorial.pdb

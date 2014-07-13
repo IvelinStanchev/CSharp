@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\15.WorkingWithAnyNumberType\bin\Release\15.WorkingWithAnyNumberType.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\15.WorkingWithAnyNumberType\bin\Release\15.WorkingWithAnyNumberType.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\15.WorkingWithAnyNumberType\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\15.WorkingWithAnyNumberType\obj\x86\Release\15.WorkingWithAnyNumberType.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\15.WorkingWithAnyNumberType\obj\x86\Release\15.WorkingWithAnyNumberType.pdb

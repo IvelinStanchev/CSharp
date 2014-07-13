@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\DurankulakNumbers\bin\Debug\DurankulakNumbers.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\DurankulakNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\DurankulakNumbers\obj\x86\Debug\DurankulakNumbers.exe
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\DurankulakNumbers\obj\x86\Debug\DurankulakNumbers.pdb

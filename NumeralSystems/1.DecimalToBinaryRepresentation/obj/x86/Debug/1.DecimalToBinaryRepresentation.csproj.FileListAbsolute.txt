@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\1.DecimalToBinaryRepresentation\bin\Debug\1.DecimalToBinaryRepresentation.exe
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\1.DecimalToBinaryRepresentation\bin\Debug\1.DecimalToBinaryRepresentation.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\1.DecimalToBinaryRepresentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\1.DecimalToBinaryRepresentation\obj\x86\Debug\1.DecimalToBinaryRepresentation.exe
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\1.DecimalToBinaryRepresentation\obj\x86\Debug\1.DecimalToBinaryRepresentation.pdb

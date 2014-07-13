@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\11.PrintsANumberInSomeFormats\bin\Release\11.PrintsANumberInSomeFormats.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\11.PrintsANumberInSomeFormats\bin\Release\11.PrintsANumberInSomeFormats.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\11.PrintsANumberInSomeFormats\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\11.PrintsANumberInSomeFormats\obj\x86\Release\11.PrintsANumberInSomeFormats.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\11.PrintsANumberInSomeFormats\obj\x86\Release\11.PrintsANumberInSomeFormats.pdb

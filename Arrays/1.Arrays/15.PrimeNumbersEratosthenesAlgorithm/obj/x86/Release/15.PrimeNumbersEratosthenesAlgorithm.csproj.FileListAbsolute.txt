@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\15.PrimeNumbersEratosthenesAlgorithm\bin\Release\15.PrimeNumbersEratosthenesAlgorithm.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\15.PrimeNumbersEratosthenesAlgorithm\bin\Release\15.PrimeNumbersEratosthenesAlgorithm.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\15.PrimeNumbersEratosthenesAlgorithm\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\15.PrimeNumbersEratosthenesAlgorithm\obj\x86\Release\15.PrimeNumbersEratosthenesAlgorithm.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\15.PrimeNumbersEratosthenesAlgorithm\obj\x86\Release\15.PrimeNumbersEratosthenesAlgorithm.pdb

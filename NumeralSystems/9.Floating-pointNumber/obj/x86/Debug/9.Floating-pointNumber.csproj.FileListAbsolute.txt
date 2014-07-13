@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\9.Floating-pointNumber\bin\Debug\9.Floating-pointNumber.exe
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\9.Floating-pointNumber\bin\Debug\9.Floating-pointNumber.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\9.Floating-pointNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\9.Floating-pointNumber\obj\x86\Debug\9.Floating-pointNumber.exe
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\9.Floating-pointNumber\obj\x86\Debug\9.Floating-pointNumber.pdb

@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\2.ComparingTwoArrays\bin\Release\2.ComparingTwoArrays.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\2.ComparingTwoArrays\bin\Release\2.ComparingTwoArrays.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\2.ComparingTwoArrays\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\2.ComparingTwoArrays\obj\x86\Release\2.ComparingTwoArrays.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\2.ComparingTwoArrays\obj\x86\Release\2.ComparingTwoArrays.pdb

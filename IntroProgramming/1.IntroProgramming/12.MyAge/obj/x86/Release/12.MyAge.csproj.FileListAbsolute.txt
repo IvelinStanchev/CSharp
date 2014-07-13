@@ -1,0 +1,7 @@
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\12.MyAge\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\12.MyAge\bin\Release\12.MyAge.exe
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\12.MyAge\bin\Release\12.MyAge.pdb
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\12.MyAge\obj\x86\Release\12.MyAge.exe
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\12.MyAge\obj\x86\Release\12.MyAge.pdb
+D:\Telerik\Homework\C#-Part1\1.IntroProgramming\1.IntroProgramming\12.MyAge\obj\x86\Release\12.MyAge.exe
+D:\Telerik\Homework\C#-Part1\1.IntroProgramming\1.IntroProgramming\12.MyAge\obj\x86\Release\12.MyAge.pdb

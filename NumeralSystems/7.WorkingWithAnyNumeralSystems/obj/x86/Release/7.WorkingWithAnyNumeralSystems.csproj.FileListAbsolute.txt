@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\7.WorkingWithAnyNumeralSystems\bin\Release\7.WorkingWithAnyNumeralSystems.exe
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\7.WorkingWithAnyNumeralSystems\bin\Release\7.WorkingWithAnyNumeralSystems.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\7.WorkingWithAnyNumeralSystems\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\7.WorkingWithAnyNumeralSystems\obj\x86\Release\7.WorkingWithAnyNumeralSystems.exe
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\7.WorkingWithAnyNumeralSystems\obj\x86\Release\7.WorkingWithAnyNumeralSystems.pdb

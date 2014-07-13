@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\4.HexadecimalToDecimalRepresentation\bin\Release\4.HexadecimalToDecimalRepresentation.exe
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\4.HexadecimalToDecimalRepresentation\bin\Release\4.HexadecimalToDecimalRepresentation.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\4.HexadecimalToDecimalRepresentation\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\4.HexadecimalToDecimalRepresentation\obj\x86\Release\4.HexadecimalToDecimalRepresentation.exe
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\4.HexadecimalToDecimalRepresentation\obj\x86\Release\4.HexadecimalToDecimalRepresentation.pdb

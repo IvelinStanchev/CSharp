@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SquareRoot", "1.SquareRoot\1.SquareRoot.csproj", "{3C14373A-4DC7-426C-8A70-8B6F57D430E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.MethodReadNumber", "2.MethodReadNumber\2.MethodReadNumber.csproj", "{89862289-965F-4AF3-9CC2-F3516062675D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.EntersInAFile", "3.EntersInAFile\3.EntersInAFile.csproj", "{F503EE4D-D04A-417A-B909-A89999E4F1CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.DownloadsAFileFromInternet", "4.DownloadsAFileFromInternet\4.DownloadsAFileFromInternet.csproj", "{4969D56F-0988-4126-949E-6BB3F50ED1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C14373A-4DC7-426C-8A70-8B6F57D430E7}.Debug|x86.ActiveCfg = Debug|x86
+		{3C14373A-4DC7-426C-8A70-8B6F57D430E7}.Debug|x86.Build.0 = Debug|x86
+		{3C14373A-4DC7-426C-8A70-8B6F57D430E7}.Release|x86.ActiveCfg = Release|x86
+		{3C14373A-4DC7-426C-8A70-8B6F57D430E7}.Release|x86.Build.0 = Release|x86
+		{89862289-965F-4AF3-9CC2-F3516062675D}.Debug|x86.ActiveCfg = Debug|x86
+		{89862289-965F-4AF3-9CC2-F3516062675D}.Debug|x86.Build.0 = Debug|x86
+		{89862289-965F-4AF3-9CC2-F3516062675D}.Release|x86.ActiveCfg = Release|x86
+		{89862289-965F-4AF3-9CC2-F3516062675D}.Release|x86.Build.0 = Release|x86
+		{F503EE4D-D04A-417A-B909-A89999E4F1CC}.Debug|x86.ActiveCfg = Debug|x86
+		{F503EE4D-D04A-417A-B909-A89999E4F1CC}.Debug|x86.Build.0 = Debug|x86
+		{F503EE4D-D04A-417A-B909-A89999E4F1CC}.Release|x86.ActiveCfg = Release|x86
+		{F503EE4D-D04A-417A-B909-A89999E4F1CC}.Release|x86.Build.0 = Release|x86
+		{4969D56F-0988-4126-949E-6BB3F50ED1AE}.Debug|x86.ActiveCfg = Debug|x86
+		{4969D56F-0988-4126-949E-6BB3F50ED1AE}.Debug|x86.Build.0 = Debug|x86
+		{4969D56F-0988-4126-949E-6BB3F50ED1AE}.Release|x86.ActiveCfg = Release|x86
+		{4969D56F-0988-4126-949E-6BB3F50ED1AE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\7.ReversingTheDigitsOfANumber\bin\Debug\7.ReversingTheDigitsOfANumber.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\7.ReversingTheDigitsOfANumber\bin\Debug\7.ReversingTheDigitsOfANumber.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\7.ReversingTheDigitsOfANumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\7.ReversingTheDigitsOfANumber\obj\x86\Debug\7.ReversingTheDigitsOfANumber.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\7.ReversingTheDigitsOfANumber\obj\x86\Debug\7.ReversingTheDigitsOfANumber.pdb

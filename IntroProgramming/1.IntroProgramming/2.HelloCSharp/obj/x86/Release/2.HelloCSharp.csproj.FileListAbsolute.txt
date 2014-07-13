@@ -1,0 +1,12 @@
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\2.HelloCSharp\bin\Release\2.HelloCSharp.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\2.HelloCSharp\bin\Release\2.HelloCSharp.pdb
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\2.HelloCSharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\2.HelloCSharp\obj\x86\Release\2.HelloCSharp.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\2.HelloCSharp\obj\x86\Release\2.HelloCSharp.pdb
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\2.HelloCSharp\obj\x86\Release\2.HelloCSharp.exe
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\2.HelloCSharp\obj\x86\Release\2.HelloCSharp.pdb
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\2.HelloCSharp\bin\Release\2.HelloCSharp.exe
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\2.HelloCSharp\bin\Release\2.HelloCSharp.pdb
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\2.HelloCSharp\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Telerik\Homework\C#-Part1\1.IntroProgramming\1.IntroProgramming\2.HelloCSharp\obj\x86\Release\2.HelloCSharp.exe
+D:\Telerik\Homework\C#-Part1\1.IntroProgramming\1.IntroProgramming\2.HelloCSharp\obj\x86\Release\2.HelloCSharp.pdb

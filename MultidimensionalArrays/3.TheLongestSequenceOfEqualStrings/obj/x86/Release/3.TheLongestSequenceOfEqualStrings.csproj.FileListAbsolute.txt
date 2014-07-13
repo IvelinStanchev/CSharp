@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\3.TheLongestSequenceOfEqualStrings\bin\Release\3.TheLongestSequenceOfEqualStrings.exe
+C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\3.TheLongestSequenceOfEqualStrings\bin\Release\3.TheLongestSequenceOfEqualStrings.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\3.TheLongestSequenceOfEqualStrings\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\3.TheLongestSequenceOfEqualStrings\obj\x86\Release\3.TheLongestSequenceOfEqualStrings.exe
+C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\3.TheLongestSequenceOfEqualStrings\obj\x86\Release\3.TheLongestSequenceOfEqualStrings.pdb

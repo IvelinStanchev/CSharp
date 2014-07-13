@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\8.SquareOfNumber\bin\Release\8.SquareOfNumber.exe
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\8.SquareOfNumber\bin\Release\8.SquareOfNumber.pdb
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\8.SquareOfNumber\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\8.SquareOfNumber\obj\x86\Release\8.SquareOfNumber.exe
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\8.SquareOfNumber\obj\x86\Release\8.SquareOfNumber.pdb

@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\7.SortingAnArray\bin\Release\7.SortingAnArray.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\7.SortingAnArray\bin\Release\7.SortingAnArray.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\7.SortingAnArray\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\7.SortingAnArray\obj\x86\Release\7.SortingAnArray.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\7.SortingAnArray\obj\x86\Release\7.SortingAnArray.pdb

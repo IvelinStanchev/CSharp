@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\5.ThirdBit\bin\Release\5.ThirdBit.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\5.ThirdBit\bin\Release\5.ThirdBit.pdb
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\5.ThirdBit\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\5.ThirdBit\obj\x86\Release\5.ThirdBit.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\5.ThirdBit\obj\x86\Release\5.ThirdBit.pdb

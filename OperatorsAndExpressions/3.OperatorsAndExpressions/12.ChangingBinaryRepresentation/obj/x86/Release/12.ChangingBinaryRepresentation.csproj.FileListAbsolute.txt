@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\12.ChangingBinaryRepresentation\bin\Release\12.ChangingBinaryRepresentation.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\12.ChangingBinaryRepresentation\bin\Release\12.ChangingBinaryRepresentation.pdb
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\12.ChangingBinaryRepresentation\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\12.ChangingBinaryRepresentation\obj\x86\Release\12.ChangingBinaryRepresentation.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\12.ChangingBinaryRepresentation\obj\x86\Release\12.ChangingBinaryRepresentation.pdb

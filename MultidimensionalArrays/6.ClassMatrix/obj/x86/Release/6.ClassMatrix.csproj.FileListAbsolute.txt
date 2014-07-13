@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\6.ClassMatrix\bin\Release\6.ClassMatrix.exe
+C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\6.ClassMatrix\bin\Release\6.ClassMatrix.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\6.ClassMatrix\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\6.ClassMatrix\obj\x86\Release\6.ClassMatrix.exe
+C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\6.ClassMatrix\obj\x86\Release\6.ClassMatrix.pdb

@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\13.TimesThatWordsAreContainingInAnotherFile\bin\Debug\13.TimesThatWordsAreContainingInAnotherFile.exe
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\13.TimesThatWordsAreContainingInAnotherFile\bin\Debug\13.TimesThatWordsAreContainingInAnotherFile.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\13.TimesThatWordsAreContainingInAnotherFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\13.TimesThatWordsAreContainingInAnotherFile\obj\x86\Debug\13.TimesThatWordsAreContainingInAnotherFile.exe
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\13.TimesThatWordsAreContainingInAnotherFile\obj\x86\Debug\13.TimesThatWordsAreContainingInAnotherFile.pdb

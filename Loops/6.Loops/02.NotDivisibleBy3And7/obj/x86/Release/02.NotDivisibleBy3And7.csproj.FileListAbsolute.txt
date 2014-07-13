@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\6.Loops\6.Loops\02.NotDivisibleBy3And7\bin\Release\02.NotDivisibleBy3And7.exe
+C:\Downloads\Telerik\Homework\6.Loops\6.Loops\02.NotDivisibleBy3And7\bin\Release\02.NotDivisibleBy3And7.pdb
+C:\Downloads\Telerik\Homework\6.Loops\6.Loops\02.NotDivisibleBy3And7\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\6.Loops\6.Loops\02.NotDivisibleBy3And7\obj\x86\Release\02.NotDivisibleBy3And7.exe
+C:\Downloads\Telerik\Homework\6.Loops\6.Loops\02.NotDivisibleBy3And7\obj\x86\Release\02.NotDivisibleBy3And7.pdb

@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\5.GreedyDwarf\bin\Release\5.GreedyDwarf.exe
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\5.GreedyDwarf\bin\Release\5.GreedyDwarf.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\5.GreedyDwarf\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\5.GreedyDwarf\obj\x86\Release\5.GreedyDwarf.exe
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\5.GreedyDwarf\obj\x86\Release\5.GreedyDwarf.pdb
