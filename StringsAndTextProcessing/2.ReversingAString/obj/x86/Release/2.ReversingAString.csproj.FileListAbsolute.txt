@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\2.ReversingAString\bin\Release\2.ReversingAString.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\2.ReversingAString\bin\Release\2.ReversingAString.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\2.ReversingAString\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\2.ReversingAString\obj\x86\Release\2.ReversingAString.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\2.ReversingAString\obj\x86\Release\2.ReversingAString.pdb

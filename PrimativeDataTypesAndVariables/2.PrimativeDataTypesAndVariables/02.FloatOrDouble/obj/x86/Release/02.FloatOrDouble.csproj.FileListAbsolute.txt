@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\02.FloatOrDouble\bin\Release\02.FloatOrDouble.exe
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\02.FloatOrDouble\bin\Release\02.FloatOrDouble.pdb
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\02.FloatOrDouble\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\02.FloatOrDouble\obj\x86\Release\02.FloatOrDouble.exe
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\02.FloatOrDouble\obj\x86\Release\02.FloatOrDouble.pdb

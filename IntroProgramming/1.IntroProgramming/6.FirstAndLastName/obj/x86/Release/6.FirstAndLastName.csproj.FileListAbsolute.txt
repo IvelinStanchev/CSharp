@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\6.FirstAndLastName\bin\Release\6.FirstAndLastName.exe
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\6.FirstAndLastName\bin\Release\6.FirstAndLastName.pdb
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\6.FirstAndLastName\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\6.FirstAndLastName\obj\x86\Release\6.FirstAndLastName.exe
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\6.FirstAndLastName\obj\x86\Release\6.FirstAndLastName.pdb

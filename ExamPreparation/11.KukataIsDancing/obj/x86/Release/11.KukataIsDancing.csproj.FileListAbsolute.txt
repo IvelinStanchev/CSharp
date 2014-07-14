@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\11.KukataIsDancing\bin\Release\11.KukataIsDancing.exe
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\11.KukataIsDancing\bin\Release\11.KukataIsDancing.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\11.KukataIsDancing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\11.KukataIsDancing\obj\x86\Release\11.KukataIsDancing.exe
+C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\11.KukataIsDancing\obj\x86\Release\11.KukataIsDancing.pdb

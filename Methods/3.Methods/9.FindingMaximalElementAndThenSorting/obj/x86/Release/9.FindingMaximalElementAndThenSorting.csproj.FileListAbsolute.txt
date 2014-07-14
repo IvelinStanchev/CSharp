@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\9.FindingMaximalElementAndThenSorting\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\9.FindingMaximalElementAndThenSorting\bin\Release\9.FindingMaximalElementAndThenSorting.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\9.FindingMaximalElementAndThenSorting\bin\Release\9.FindingMaximalElementAndThenSorting.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\9.FindingMaximalElementAndThenSorting\obj\x86\Release\9.FindingMaximalElementAndThenSorting.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\9.FindingMaximalElementAndThenSorting\obj\x86\Release\9.FindingMaximalElementAndThenSorting.pdb

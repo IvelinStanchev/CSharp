@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.DecimalToBinaryRepresentation", "1.DecimalToBinaryRepresentation\1.DecimalToBinaryRepresentation.csproj", "{FAE88377-7BBD-48E7-AA28-FB835DF3B60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.BinaryToDecimalRepresentation", "2.BinaryToDecimalRepresentation\2.BinaryToDecimalRepresentation.csproj", "{48CBC1C1-A313-4F42-A81E-D1405B15A013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.DecimalToHexadecimalRepresentation", "3.DecimalToHexadecimalRepresentation\3.DecimalToHexadecimalRepresentation.csproj", "{554C9EC5-F632-4AAB-B1DF-25F302AF7867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.HexadecimalToDecimalRepresentation", "4.HexadecimalToDecimalRepresentation\4.HexadecimalToDecimalRepresentation.csproj", "{4440FB76-E141-4B73-8B21-32B66444F702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.HexadecimalToBinaryRepresentation", "5.HexadecimalToBinaryRepresentation\5.HexadecimalToBinaryRepresentation.csproj", "{E1009087-7A25-462B-BA33-EE1BCF9FA9F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.BinaryToHexadecimalRepresentation", "6.BinaryToHexadecimalRepresentation\6.BinaryToHexadecimalRepresentation.csproj", "{C1D7CD78-77A9-44F2-9791-165C777C8236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.WorkingWithAnyNumeralSystems", "7.WorkingWithAnyNumeralSystems\7.WorkingWithAnyNumeralSystems.csproj", "{C5197AAC-0B24-43C6-8837-CE53F154E783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.BinaryRepresentationOfTypeShort", "8.BinaryRepresentationOfTypeShort\8.BinaryRepresentationOfTypeShort.csproj", "{280FC436-5071-4259-91CD-914CE7B3E88B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Floating-pointNumber", "9.Floating-pointNumber\9.Floating-pointNumber.csproj", "{B44E99C7-158F-4F39-AC36-3FED890E5AD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE88377-7BBD-48E7-AA28-FB835DF3B60B}.Debug|x86.ActiveCfg = Debug|x86
+		{FAE88377-7BBD-48E7-AA28-FB835DF3B60B}.Debug|x86.Build.0 = Debug|x86
+		{FAE88377-7BBD-48E7-AA28-FB835DF3B60B}.Release|x86.ActiveCfg = Release|x86
+		{FAE88377-7BBD-48E7-AA28-FB835DF3B60B}.Release|x86.Build.0 = Release|x86
+		{48CBC1C1-A313-4F42-A81E-D1405B15A013}.Debug|x86.ActiveCfg = Debug|x86
+		{48CBC1C1-A313-4F42-A81E-D1405B15A013}.Debug|x86.Build.0 = Debug|x86
+		{48CBC1C1-A313-4F42-A81E-D1405B15A013}.Release|x86.ActiveCfg = Release|x86
+		{48CBC1C1-A313-4F42-A81E-D1405B15A013}.Release|x86.Build.0 = Release|x86
+		{554C9EC5-F632-4AAB-B1DF-25F302AF7867}.Debug|x86.ActiveCfg = Debug|x86
+		{554C9EC5-F632-4AAB-B1DF-25F302AF7867}.Debug|x86.Build.0 = Debug|x86
+		{554C9EC5-F632-4AAB-B1DF-25F302AF7867}.Release|x86.ActiveCfg = Release|x86
+		{554C9EC5-F632-4AAB-B1DF-25F302AF7867}.Release|x86.Build.0 = Release|x86
+		{4440FB76-E141-4B73-8B21-32B66444F702}.Debug|x86.ActiveCfg = Debug|x86
+		{4440FB76-E141-4B73-8B21-32B66444F702}.Debug|x86.Build.0 = Debug|x86
+		{4440FB76-E141-4B73-8B21-32B66444F702}.Release|x86.ActiveCfg = Release|x86
+		{4440FB76-E141-4B73-8B21-32B66444F702}.Release|x86.Build.0 = Release|x86
+		{E1009087-7A25-462B-BA33-EE1BCF9FA9F8}.Debug|x86.ActiveCfg = Debug|x86
+		{E1009087-7A25-462B-BA33-EE1BCF9FA9F8}.Debug|x86.Build.0 = Debug|x86
+		{E1009087-7A25-462B-BA33-EE1BCF9FA9F8}.Release|x86.ActiveCfg = Release|x86
+		{E1009087-7A25-462B-BA33-EE1BCF9FA9F8}.Release|x86.Build.0 = Release|x86
+		{C1D7CD78-77A9-44F2-9791-165C777C8236}.Debug|x86.ActiveCfg = Debug|x86
+		{C1D7CD78-77A9-44F2-9791-165C777C8236}.Debug|x86.Build.0 = Debug|x86
+		{C1D7CD78-77A9-44F2-9791-165C777C8236}.Release|x86.ActiveCfg = Release|x86
+		{C1D7CD78-77A9-44F2-9791-165C777C8236}.Release|x86.Build.0 = Release|x86
+		{C5197AAC-0B24-43C6-8837-CE53F154E783}.Debug|x86.ActiveCfg = Debug|x86
+		{C5197AAC-0B24-43C6-8837-CE53F154E783}.Debug|x86.Build.0 = Debug|x86
+		{C5197AAC-0B24-43C6-8837-CE53F154E783}.Release|x86.ActiveCfg = Release|x86
+		{C5197AAC-0B24-43C6-8837-CE53F154E783}.Release|x86.Build.0 = Release|x86
+		{280FC436-5071-4259-91CD-914CE7B3E88B}.Debug|x86.ActiveCfg = Debug|x86
+		{280FC436-5071-4259-91CD-914CE7B3E88B}.Debug|x86.Build.0 = Debug|x86
+		{280FC436-5071-4259-91CD-914CE7B3E88B}.Release|x86.ActiveCfg = Release|x86
+		{280FC436-5071-4259-91CD-914CE7B3E88B}.Release|x86.Build.0 = Release|x86
+		{B44E99C7-158F-4F39-AC36-3FED890E5AD6}.Debug|x86.ActiveCfg = Debug|x86
+		{B44E99C7-158F-4F39-AC36-3FED890E5AD6}.Debug|x86.Build.0 = Debug|x86
+		{B44E99C7-158F-4F39-AC36-3FED890E5AD6}.Release|x86.ActiveCfg = Release|x86
+		{B44E99C7-158F-4F39-AC36-3FED890E5AD6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

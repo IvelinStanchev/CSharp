@@ -1,0 +1,10 @@
+A string is an object of type String whose value is text. Internally, the text is stored as a sequential 
+read-only collection of Char objects.
+String objects are immutable: they cannot be changed after they have been created. 
+All of the String methods and C# operators that appear to modify a string actually return the results in a 
+new string object.
+String operations in .NET are highly optimized and in most cases do not significantly impact performance. 
+However, in some scenarios such as tight loops that are executing many hundreds or thousands of times, 
+string operations can affect performance. The StringBuilder class creates a string buffer that offers 
+better performance if your program performs many string manipulations. The StringBuilder string also 
+enables you to reassign individual characters, something the built-in string data type does not support.

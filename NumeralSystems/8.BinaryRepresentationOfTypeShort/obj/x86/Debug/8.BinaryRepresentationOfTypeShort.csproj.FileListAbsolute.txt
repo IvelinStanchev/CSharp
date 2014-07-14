@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\8.BinaryRepresentationOfTypeShort\bin\Debug\8.BinaryRepresentationOfTypeShort.exe
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\8.BinaryRepresentationOfTypeShort\bin\Debug\8.BinaryRepresentationOfTypeShort.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\8.BinaryRepresentationOfTypeShort\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\8.BinaryRepresentationOfTypeShort\obj\x86\Debug\8.BinaryRepresentationOfTypeShort.exe
+C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\8.BinaryRepresentationOfTypeShort\obj\x86\Debug\8.BinaryRepresentationOfTypeShort.pdb

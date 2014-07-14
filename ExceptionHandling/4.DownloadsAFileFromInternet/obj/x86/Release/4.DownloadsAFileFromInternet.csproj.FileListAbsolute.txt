@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\4.DownloadsAFileFromInternet\bin\Release\4.DownloadsAFileFromInternet.exe
+C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\4.DownloadsAFileFromInternet\bin\Release\4.DownloadsAFileFromInternet.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\4.DownloadsAFileFromInternet\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\4.DownloadsAFileFromInternet\obj\x86\Release\4.DownloadsAFileFromInternet.exe
+C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\4.DownloadsAFileFromInternet\obj\x86\Release\4.DownloadsAFileFromInternet.pdb

@@ -1,0 +1,7 @@
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\bin\Release\13.ExchangingBits.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\bin\Release\13.ExchangingBits.pdb
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\obj\x86\Release\13.ExchangingBits.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\obj\x86\Release\13.ExchangingBits.pdb
+C:\Downloads\Telerik\Homework\C#-Part1\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\obj\x86\Release\13.ExchangingBits.exe
+C:\Downloads\Telerik\Homework\C#-Part1\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\obj\x86\Release\13.ExchangingBits.pdb

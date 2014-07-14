@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\05.NameOfDigit\bin\Debug\05.NameOfDigit.exe
+C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\05.NameOfDigit\bin\Debug\05.NameOfDigit.pdb
+C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\05.NameOfDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\05.NameOfDigit\obj\x86\Debug\05.NameOfDigit.exe
+C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\05.NameOfDigit\obj\x86\Debug\05.NameOfDigit.pdb

@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\9.WithinCircleOutOfRectangle\bin\Release\9.WithinCircleOutOfRectangle.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\9.WithinCircleOutOfRectangle\bin\Release\9.WithinCircleOutOfRectangle.pdb
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\9.WithinCircleOutOfRectangle\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\9.WithinCircleOutOfRectangle\obj\x86\Release\9.WithinCircleOutOfRectangle.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\9.WithinCircleOutOfRectangle\obj\x86\Release\9.WithinCircleOutOfRectangle.pdb

@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\3.CheckingIfTheBracketsArePutCorrectly\bin\Debug\3.CheckingIfTheBracketsArePutCorrectly.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\3.CheckingIfTheBracketsArePutCorrectly\bin\Debug\3.CheckingIfTheBracketsArePutCorrectly.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\3.CheckingIfTheBracketsArePutCorrectly\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\3.CheckingIfTheBracketsArePutCorrectly\obj\x86\Debug\3.CheckingIfTheBracketsArePutCorrectly.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\3.CheckingIfTheBracketsArePutCorrectly\obj\x86\Debug\3.CheckingIfTheBracketsArePutCorrectly.pdb

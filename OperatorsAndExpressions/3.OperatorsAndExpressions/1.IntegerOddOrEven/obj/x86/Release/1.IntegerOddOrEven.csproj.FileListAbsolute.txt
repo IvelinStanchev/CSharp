@@ -1,0 +1,10 @@
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.IntegerOddOrEven\bin\Release\1.IntegerOddOrEven.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.IntegerOddOrEven\bin\Release\1.IntegerOddOrEven.pdb
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.IntegerOddOrEven\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.IntegerOddOrEven\obj\x86\Release\1.IntegerOddOrEven.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.IntegerOddOrEven\obj\x86\Release\1.IntegerOddOrEven.pdb
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\1.IntegerOddOrEven\obj\x86\Release\1.IntegerOddOrEven.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\1.IntegerOddOrEven\obj\x86\Release\1.IntegerOddOrEven.pdb
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\1.IntegerOddOrEven\bin\Release\1.IntegerOddOrEven.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\1.IntegerOddOrEven\bin\Release\1.IntegerOddOrEven.pdb
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\1.IntegerOddOrEven\obj\x86\Release\ResolveAssemblyReference.cache

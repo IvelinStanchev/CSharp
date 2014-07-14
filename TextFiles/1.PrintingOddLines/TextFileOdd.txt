@@ -1,0 +1,6 @@
+﻿Hello
+Hey
+Battery
+Program
+Getter
+Proper

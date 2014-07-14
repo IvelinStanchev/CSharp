@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\6.Loops\6.Loops\14.NumbersAsSpiral\bin\Debug\14.NumbersAsSpiral.exe
+C:\Downloads\Telerik\Homework\6.Loops\6.Loops\14.NumbersAsSpiral\bin\Debug\14.NumbersAsSpiral.pdb
+C:\Downloads\Telerik\Homework\6.Loops\6.Loops\14.NumbersAsSpiral\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\6.Loops\6.Loops\14.NumbersAsSpiral\obj\x86\Debug\14.NumbersAsSpiral.exe
+C:\Downloads\Telerik\Homework\6.Loops\6.Loops\14.NumbersAsSpiral\obj\x86\Debug\14.NumbersAsSpiral.pdb

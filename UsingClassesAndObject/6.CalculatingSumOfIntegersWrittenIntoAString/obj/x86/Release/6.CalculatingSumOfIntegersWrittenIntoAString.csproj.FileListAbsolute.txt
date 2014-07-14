@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\6.CalculatingSumOfIntegersWrittenIntoAString\bin\Release\6.CalculatingSumOfIntegersWrittenIntoAString.exe
+C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\6.CalculatingSumOfIntegersWrittenIntoAString\bin\Release\6.CalculatingSumOfIntegersWrittenIntoAString.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\6.CalculatingSumOfIntegersWrittenIntoAString\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\6.CalculatingSumOfIntegersWrittenIntoAString\obj\x86\Release\6.CalculatingSumOfIntegersWrittenIntoAString.exe
+C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\6.CalculatingSumOfIntegersWrittenIntoAString\obj\x86\Release\6.CalculatingSumOfIntegersWrittenIntoAString.pdb

@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\10.BitPosition\bin\Debug\10.BitPosition.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\10.BitPosition\bin\Debug\10.BitPosition.pdb
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\10.BitPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\10.BitPosition\obj\x86\Debug\10.BitPosition.exe
+C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\10.BitPosition\obj\x86\Debug\10.BitPosition.pdb

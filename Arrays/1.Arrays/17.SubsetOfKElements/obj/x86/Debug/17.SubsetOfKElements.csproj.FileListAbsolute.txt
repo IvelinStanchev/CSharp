@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\17.SubsetOfKElements\bin\Debug\17.SubsetOfKElements.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\17.SubsetOfKElements\bin\Debug\17.SubsetOfKElements.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\17.SubsetOfKElements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\17.SubsetOfKElements\obj\x86\Debug\17.SubsetOfKElements.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\17.SubsetOfKElements\obj\x86\Debug\17.SubsetOfKElements.pdb

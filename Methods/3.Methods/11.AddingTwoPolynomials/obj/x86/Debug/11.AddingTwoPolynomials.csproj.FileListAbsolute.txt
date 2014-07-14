@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\11.AddingTwoPolynomials\bin\Debug\11.AddingTwoPolynomials.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\11.AddingTwoPolynomials\bin\Debug\11.AddingTwoPolynomials.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\11.AddingTwoPolynomials\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\11.AddingTwoPolynomials\obj\x86\Debug\11.AddingTwoPolynomials.exe
+C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\11.AddingTwoPolynomials\obj\x86\Debug\11.AddingTwoPolynomials.pdb

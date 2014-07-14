@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\11.FallingRocks\bin\Release\11.FallingRocks.exe
+C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\11.FallingRocks\bin\Release\11.FallingRocks.pdb
+C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\11.FallingRocks\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\11.FallingRocks\obj\x86\Release\11.FallingRocks.exe
+C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\11.FallingRocks\obj\x86\Release\11.FallingRocks.pdb

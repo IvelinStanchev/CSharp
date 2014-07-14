@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\15.ReplacingTags\bin\Debug\15.ReplacingTags.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\15.ReplacingTags\bin\Debug\15.ReplacingTags.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\15.ReplacingTags\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\15.ReplacingTags\obj\x86\Debug\15.ReplacingTags.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\15.ReplacingTags\obj\x86\Debug\15.ReplacingTags.pdb

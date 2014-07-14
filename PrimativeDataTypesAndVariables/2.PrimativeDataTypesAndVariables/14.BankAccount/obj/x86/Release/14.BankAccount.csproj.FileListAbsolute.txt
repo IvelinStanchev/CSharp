@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\14.BankAccount\bin\Release\14.BankAccount.exe
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\14.BankAccount\bin\Release\14.BankAccount.pdb
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\14.BankAccount\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\14.BankAccount\obj\x86\Release\14.BankAccount.exe
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\14.BankAccount\obj\x86\Release\14.BankAccount.pdb

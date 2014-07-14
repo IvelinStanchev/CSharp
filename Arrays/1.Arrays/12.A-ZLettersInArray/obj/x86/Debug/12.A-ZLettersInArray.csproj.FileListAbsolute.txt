@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\12.A-ZLettersInArray\bin\Debug\12.A-ZLettersInArray.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\12.A-ZLettersInArray\bin\Debug\12.A-ZLettersInArray.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\12.A-ZLettersInArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\12.A-ZLettersInArray\obj\x86\Debug\12.A-ZLettersInArray.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\12.A-ZLettersInArray\obj\x86\Debug\12.A-ZLettersInArray.pdb

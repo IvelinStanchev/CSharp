@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\20.Palindromes\bin\Release\20.Palindromes.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\20.Palindromes\bin\Release\20.Palindromes.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\20.Palindromes\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\20.Palindromes\obj\x86\Release\20.Palindromes.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\20.Palindromes\obj\x86\Release\20.Palindromes.pdb

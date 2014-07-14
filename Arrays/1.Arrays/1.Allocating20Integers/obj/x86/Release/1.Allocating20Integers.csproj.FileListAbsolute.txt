@@ -1,0 +1,10 @@
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.Arrays\bin\Release\1.Arrays.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.Arrays\bin\Release\1.Arrays.pdb
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.Arrays\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.Arrays\obj\x86\Release\1.Arrays.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\1.Arrays\obj\x86\Release\1.Arrays.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\1.Allocating20Integers\bin\Release\1.Allocating20Integers.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\1.Allocating20Integers\bin\Release\1.Allocating20Integers.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\1.Allocating20Integers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\1.Allocating20Integers\obj\x86\Release\1.Allocating20Integers.exe
+C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\1.Allocating20Integers\obj\x86\Release\1.Allocating20Integers.pdb

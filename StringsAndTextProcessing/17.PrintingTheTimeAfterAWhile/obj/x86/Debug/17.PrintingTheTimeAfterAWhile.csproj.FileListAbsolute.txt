@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\17.PrintingTheTimeAfterAWhile\bin\Debug\17.PrintingTheTimeAfterAWhile.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\17.PrintingTheTimeAfterAWhile\bin\Debug\17.PrintingTheTimeAfterAWhile.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\17.PrintingTheTimeAfterAWhile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\17.PrintingTheTimeAfterAWhile\obj\x86\Debug\17.PrintingTheTimeAfterAWhile.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\17.PrintingTheTimeAfterAWhile\obj\x86\Debug\17.PrintingTheTimeAfterAWhile.pdb

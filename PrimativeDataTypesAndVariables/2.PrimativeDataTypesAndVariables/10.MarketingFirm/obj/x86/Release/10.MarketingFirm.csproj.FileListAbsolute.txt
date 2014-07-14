@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\10.MarketingFirm\bin\Release\10.MarketingFirm.exe
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\10.MarketingFirm\bin\Release\10.MarketingFirm.pdb
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\10.MarketingFirm\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\10.MarketingFirm\obj\x86\Release\10.MarketingFirm.exe
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\10.MarketingFirm\obj\x86\Release\10.MarketingFirm.pdb

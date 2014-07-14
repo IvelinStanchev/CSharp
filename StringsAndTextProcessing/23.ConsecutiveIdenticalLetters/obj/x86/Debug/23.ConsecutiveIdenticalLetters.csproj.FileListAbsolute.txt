@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\23.ConsecutiveIdenticalLetters\bin\Debug\23.ConsecutiveIdenticalLetters.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\23.ConsecutiveIdenticalLetters\bin\Debug\23.ConsecutiveIdenticalLetters.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\23.ConsecutiveIdenticalLetters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\23.ConsecutiveIdenticalLetters\obj\x86\Debug\23.ConsecutiveIdenticalLetters.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\23.ConsecutiveIdenticalLetters\obj\x86\Debug\23.ConsecutiveIdenticalLetters.pdb

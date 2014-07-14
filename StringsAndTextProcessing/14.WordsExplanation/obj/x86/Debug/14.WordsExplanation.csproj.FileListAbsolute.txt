@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\14.WordsExplanation\bin\Debug\14.WordsExplanation.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\14.WordsExplanation\bin\Debug\14.WordsExplanation.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\14.WordsExplanation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\14.WordsExplanation\obj\x86\Debug\14.WordsExplanation.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\14.WordsExplanation\obj\x86\Debug\14.WordsExplanation.pdb

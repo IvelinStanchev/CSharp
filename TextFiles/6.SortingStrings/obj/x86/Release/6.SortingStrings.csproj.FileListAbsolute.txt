@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\6.SortingStrings\bin\Release\6.SortingStrings.exe
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\6.SortingStrings\bin\Release\6.SortingStrings.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\6.SortingStrings\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\6.SortingStrings\obj\x86\Release\6.SortingStrings.exe
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\6.SortingStrings\obj\x86\Release\6.SortingStrings.pdb

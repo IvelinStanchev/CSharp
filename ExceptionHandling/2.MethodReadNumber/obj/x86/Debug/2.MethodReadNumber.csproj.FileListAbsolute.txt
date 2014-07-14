@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\2.MethodReadNumber\bin\Debug\2.MethodReadNumber.exe
+C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\2.MethodReadNumber\bin\Debug\2.MethodReadNumber.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\2.MethodReadNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\2.MethodReadNumber\obj\x86\Debug\2.MethodReadNumber.exe
+C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\2.MethodReadNumber\obj\x86\Debug\2.MethodReadNumber.pdb

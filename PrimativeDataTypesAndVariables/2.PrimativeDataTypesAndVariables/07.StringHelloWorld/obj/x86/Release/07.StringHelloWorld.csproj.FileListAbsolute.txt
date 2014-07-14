@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\07.StringHelloWorld\bin\Release\07.StringHelloWorld.exe
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\07.StringHelloWorld\bin\Release\07.StringHelloWorld.pdb
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\07.StringHelloWorld\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\07.StringHelloWorld\obj\x86\Release\07.StringHelloWorld.exe
+C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\07.StringHelloWorld\obj\x86\Release\07.StringHelloWorld.pdb

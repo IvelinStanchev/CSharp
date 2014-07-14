@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\2.ConcatenatingTwoFilesIntoAnother\bin\Debug\2.ConcatenatingTwoFilesIntoAnother.exe
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\2.ConcatenatingTwoFilesIntoAnother\bin\Debug\2.ConcatenatingTwoFilesIntoAnother.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\2.ConcatenatingTwoFilesIntoAnother\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\2.ConcatenatingTwoFilesIntoAnother\obj\x86\Debug\2.ConcatenatingTwoFilesIntoAnother.exe
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\2.ConcatenatingTwoFilesIntoAnother\obj\x86\Debug\2.ConcatenatingTwoFilesIntoAnother.pdb

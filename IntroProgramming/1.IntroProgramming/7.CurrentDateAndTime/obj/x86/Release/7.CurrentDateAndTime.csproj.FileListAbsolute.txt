@@ -1,0 +1,7 @@
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\7.CurrentDateAndTime\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\7.CurrentDateAndTime\bin\Release\7.CurrentDateAndTime.exe
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\7.CurrentDateAndTime\bin\Release\7.CurrentDateAndTime.pdb
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\7.CurrentDateAndTime\obj\x86\Release\7.CurrentDateAndTime.exe
+C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\7.CurrentDateAndTime\obj\x86\Release\7.CurrentDateAndTime.pdb
+C:\Downloads\Telerik\Homework\C#-Part1\1.IntroProgramming\1.IntroProgramming\7.CurrentDateAndTime\obj\x86\Release\7.CurrentDateAndTime.exe
+C:\Downloads\Telerik\Homework\C#-Part1\1.IntroProgramming\1.IntroProgramming\7.CurrentDateAndTime\obj\x86\Release\7.CurrentDateAndTime.pdb

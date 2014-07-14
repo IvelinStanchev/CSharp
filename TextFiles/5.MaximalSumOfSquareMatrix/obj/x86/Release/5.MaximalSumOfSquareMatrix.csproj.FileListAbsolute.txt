@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\5.MaximalSumOfSquareMatrix\bin\Release\5.MaximalSumOfSquareMatrix.exe
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\5.MaximalSumOfSquareMatrix\bin\Release\5.MaximalSumOfSquareMatrix.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\5.MaximalSumOfSquareMatrix\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\5.MaximalSumOfSquareMatrix\obj\x86\Release\5.MaximalSumOfSquareMatrix.exe
+C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\5.MaximalSumOfSquareMatrix\obj\x86\Release\5.MaximalSumOfSquareMatrix.pdb

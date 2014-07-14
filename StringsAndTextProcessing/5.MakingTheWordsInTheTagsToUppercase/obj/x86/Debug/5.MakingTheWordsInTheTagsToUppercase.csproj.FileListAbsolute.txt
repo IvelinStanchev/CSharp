@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\5.MakingTheWordsInTheTagsToUppercase\bin\Debug\5.MakingTheWordsInTheTagsToUppercase.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\5.MakingTheWordsInTheTagsToUppercase\bin\Debug\5.MakingTheWordsInTheTagsToUppercase.pdb
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\5.MakingTheWordsInTheTagsToUppercase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\5.MakingTheWordsInTheTagsToUppercase\obj\x86\Debug\5.MakingTheWordsInTheTagsToUppercase.exe
+C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\5.MakingTheWordsInTheTagsToUppercase\obj\x86\Debug\5.MakingTheWordsInTheTagsToUppercase.pdb

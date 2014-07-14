@@ -1,0 +1,5 @@
+C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\04.SortValuesInDescendingOrder\bin\Debug\04.SortValuesInDescendingOrder.exe
+C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\04.SortValuesInDescendingOrder\bin\Debug\04.SortValuesInDescendingOrder.pdb
+C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\04.SortValuesInDescendingOrder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\04.SortValuesInDescendingOrder\obj\x86\Debug\04.SortValuesInDescendingOrder.exe
+C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\04.SortValuesInDescendingOrder\obj\x86\Debug\04.SortValuesInDescendingOrder.pdb
