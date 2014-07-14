@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        Background="YellowGreen">
+    <StackPanel KeyDown="OnTextInputKeyDown">
+        <TextBox Name="TextBox"
+                     Background="BlanchedAlmond"
+                     Height="260"
+                     TextWrapping="Wrap"
+                     AcceptsReturn="True"
+                     VerticalScrollBarVisibility="Visible"
+                     Foreground="Red"
+                     FontSize="20">
+        </TextBox>
+        <TextBox Name="Symbols" 
+                     Height="60"
+                     BorderBrush="Green" 
+                     BorderThickness="0" 
+                     Background="YellowGreen" 
+                     Foreground="Fuchsia" 
+                     FontSize="40"
+                     FontStretch="UltraExpanded"
+                     HorizontalContentAlignment="Left"
+                     VerticalContentAlignment="Center">
+            Symbols: 0
+        </TextBox>
+    </StackPanel>
+</Window>

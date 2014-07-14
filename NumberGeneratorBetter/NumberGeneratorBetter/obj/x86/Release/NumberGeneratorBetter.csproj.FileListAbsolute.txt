@@ -1,0 +1,13 @@
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\bin\Release\NumberGeneratorBetter.exe
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\bin\Release\NumberGeneratorBetter.pdb
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\MainWindow.baml
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\MainWindow.g.cs
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\App.g.cs
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\NumberGeneratorBetter_MarkupCompile.cache
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\NumberGeneratorBetter.g.resources
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\NumberGenerator.Properties.Resources.resources
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\NumberGeneratorBetter.exe
+C:\Downloads\Telerik\Other programs\NumberGeneratorBetter\NumberGeneratorBetter\obj\x86\Release\NumberGeneratorBetter.pdb

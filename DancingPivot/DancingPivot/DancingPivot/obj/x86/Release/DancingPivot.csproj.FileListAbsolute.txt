@@ -1,0 +1,7 @@
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\DancingPivot\bin\Release\DancingPivot.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\DancingPivot\bin\Release\DancingPivot.pdb
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\DancingPivot\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\DancingPivot\obj\x86\Release\DancingPivot.exe
+C:\Documents and Settings\martin\Local Settings\Application Data\Temporary Projects\DancingPivot\obj\x86\Release\DancingPivot.pdb
+C:\Downloads\Telerik\Other programs\DancingPivot2\DancingPivot\DancingPivot\obj\x86\Release\DancingPivot.exe
+C:\Downloads\Telerik\Other programs\DancingPivot2\DancingPivot\DancingPivot\obj\x86\Release\DancingPivot.pdb
