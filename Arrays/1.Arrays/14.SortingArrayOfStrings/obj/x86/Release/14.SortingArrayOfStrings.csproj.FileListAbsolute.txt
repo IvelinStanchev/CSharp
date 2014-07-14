@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\14.SortingArrayOfStrings\bin\Release\14.SortingArrayOfStrings.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\14.SortingArrayOfStrings\bin\Release\14.SortingArrayOfStrings.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\14.SortingArrayOfStrings\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\14.SortingArrayOfStrings\obj\x86\Release\14.SortingArrayOfStrings.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\14.SortingArrayOfStrings\obj\x86\Release\14.SortingArrayOfStrings.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\3.LastDigitOfANumberAsWord\bin\Debug\3.LastDigitOfANumberAsWord.exe
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\3.LastDigitOfANumberAsWord\bin\Debug\3.LastDigitOfANumberAsWord.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\3.LastDigitOfANumberAsWord\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\3.LastDigitOfANumberAsWord\obj\x86\Debug\3.LastDigitOfANumberAsWord.exe
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\3.LastDigitOfANumberAsWord\obj\x86\Debug\3.LastDigitOfANumberAsWord.pdb

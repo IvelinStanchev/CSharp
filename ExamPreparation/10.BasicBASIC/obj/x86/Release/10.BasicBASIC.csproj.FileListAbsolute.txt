@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\10.BasicBASIC\bin\Release\10.BasicBASIC.exe
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\10.BasicBASIC\bin\Release\10.BasicBASIC.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\10.BasicBASIC\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\10.BasicBASIC\obj\x86\Release\10.BasicBASIC.exe
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\10.BasicBASIC\obj\x86\Release\10.BasicBASIC.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\03.TheBiggestOfThreeIntegers\bin\Debug\03.TheBiggestOfThreeIntegers.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\03.TheBiggestOfThreeIntegers\bin\Debug\03.TheBiggestOfThreeIntegers.pdb
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\03.TheBiggestOfThreeIntegers\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\03.TheBiggestOfThreeIntegers\obj\x86\Debug\03.TheBiggestOfThreeIntegers.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\03.TheBiggestOfThreeIntegers\obj\x86\Debug\03.TheBiggestOfThreeIntegers.pdb

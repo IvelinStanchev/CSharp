@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\8.ExtractsSentencesContainingGivenWord\bin\Release\8.ExtractsSentencesContainingGivenWord.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\8.ExtractsSentencesContainingGivenWord\bin\Release\8.ExtractsSentencesContainingGivenWord.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\8.ExtractsSentencesContainingGivenWord\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\8.ExtractsSentencesContainingGivenWord\obj\x86\Release\8.ExtractsSentencesContainingGivenWord.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\8.ExtractsSentencesContainingGivenWord\obj\x86\Release\8.ExtractsSentencesContainingGivenWord.pdb

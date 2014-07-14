@@ -1,7 +1,0 @@
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\11.NumberToText\bin\Release\11.NumberToText.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\11.NumberToText\bin\Release\11.NumberToText.pdb
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\11.NumberToText\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\11.NumberToText\obj\x86\Release\11.NumberToText.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\11.NumberToText\obj\x86\Release\11.NumberToText.pdb
-C:\Downloads\Telerik\Homework\C#-Part1\5.ConditionalStatements\5.ConditionalStatements\11.NumberToText\obj\x86\Release\11.NumberToText.exe
-C:\Downloads\Telerik\Homework\C#-Part1\5.ConditionalStatements\5.ConditionalStatements\11.NumberToText\obj\x86\Release\11.NumberToText.pdb

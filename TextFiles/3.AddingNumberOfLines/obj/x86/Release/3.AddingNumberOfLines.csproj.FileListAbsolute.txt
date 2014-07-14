@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\3.AddingNumberOfLines\bin\Release\3.AddingNumberOfLines.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\3.AddingNumberOfLines\bin\Release\3.AddingNumberOfLines.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\3.AddingNumberOfLines\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\3.AddingNumberOfLines\obj\x86\Release\3.AddingNumberOfLines.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\3.AddingNumberOfLines\obj\x86\Release\3.AddingNumberOfLines.pdb

@@ -1,7 +1,0 @@
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\11.ChangingValues\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\11.ChangingValues\bin\Release\11.ChangingValues.exe
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\11.ChangingValues\bin\Release\11.ChangingValues.pdb
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\11.ChangingValues\obj\x86\Release\11.ChangingValues.exe
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\11.ChangingValues\obj\x86\Release\11.ChangingValues.pdb
-C:\Downloads\Telerik\Homework\C#-Part1\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\11.ChangingValues\obj\x86\Release\11.ChangingValues.exe
-C:\Downloads\Telerik\Homework\C#-Part1\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\11.ChangingValues\obj\x86\Release\11.ChangingValues.pdb

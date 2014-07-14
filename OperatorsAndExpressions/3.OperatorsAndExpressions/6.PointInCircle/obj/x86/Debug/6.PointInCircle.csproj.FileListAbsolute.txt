@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\6.PointInCircle\bin\Debug\6.PointInCircle.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\6.PointInCircle\bin\Debug\6.PointInCircle.pdb
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\6.PointInCircle\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\6.PointInCircle\obj\x86\Debug\6.PointInCircle.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\6.PointInCircle\obj\x86\Debug\6.PointInCircle.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\10.CalculatingSum\bin\Release\10.CalculatingSum.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\10.CalculatingSum\bin\Release\10.CalculatingSum.pdb
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\10.CalculatingSum\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\10.CalculatingSum\obj\x86\Release\10.CalculatingSum.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\10.CalculatingSum\obj\x86\Release\10.CalculatingSum.pdb

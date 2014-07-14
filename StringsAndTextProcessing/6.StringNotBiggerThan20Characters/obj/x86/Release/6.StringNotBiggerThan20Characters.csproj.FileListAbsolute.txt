@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\6.StringNotBiggerThan20Characters\bin\Release\6.StringNotBiggerThan20Characters.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\6.StringNotBiggerThan20Characters\bin\Release\6.StringNotBiggerThan20Characters.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\6.StringNotBiggerThan20Characters\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\6.StringNotBiggerThan20Characters\obj\x86\Release\6.StringNotBiggerThan20Characters.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\6.StringNotBiggerThan20Characters\obj\x86\Release\6.StringNotBiggerThan20Characters.pdb

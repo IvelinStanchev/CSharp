@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\2.SquereOfMaximamlSum\bin\Debug\2.SquereOfMaximamlSum.exe
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\2.SquereOfMaximamlSum\bin\Debug\2.SquereOfMaximamlSum.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\2.SquereOfMaximamlSum\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\2.SquereOfMaximamlSum\obj\x86\Debug\2.SquereOfMaximamlSum.exe
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\2.SquereOfMaximamlSum\obj\x86\Debug\2.SquereOfMaximamlSum.pdb

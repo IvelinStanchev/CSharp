@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\10.CatalanNumberForNNumber\bin\Debug\10.CatalanNumberForNNumber.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\10.CatalanNumberForNNumber\bin\Debug\10.CatalanNumberForNNumber.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\10.CatalanNumberForNNumber\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\10.CatalanNumberForNNumber\obj\x86\Debug\10.CatalanNumberForNNumber.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\10.CatalanNumberForNNumber\obj\x86\Debug\10.CatalanNumberForNNumber.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\01.Numbers1ToN\bin\Debug\01.Numbers1ToN.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\01.Numbers1ToN\bin\Debug\01.Numbers1ToN.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\01.Numbers1ToN\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\01.Numbers1ToN\obj\x86\Debug\01.Numbers1ToN.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\01.Numbers1ToN\obj\x86\Debug\01.Numbers1ToN.pdb

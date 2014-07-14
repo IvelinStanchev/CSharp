@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\4.ThirdDigit\bin\Debug\4.ThirdDigit.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\4.ThirdDigit\bin\Debug\4.ThirdDigit.pdb
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\4.ThirdDigit\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\4.ThirdDigit\obj\x86\Debug\4.ThirdDigit.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\4.ThirdDigit\obj\x86\Debug\4.ThirdDigit.pdb

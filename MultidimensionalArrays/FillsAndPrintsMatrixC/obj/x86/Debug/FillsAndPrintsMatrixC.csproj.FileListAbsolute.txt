@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\FillsAndPrintsMatrixC\bin\Debug\FillsAndPrintsMatrixC.exe
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\FillsAndPrintsMatrixC\bin\Debug\FillsAndPrintsMatrixC.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\FillsAndPrintsMatrixC\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\FillsAndPrintsMatrixC\obj\x86\Debug\FillsAndPrintsMatrixC.exe
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\FillsAndPrintsMatrixC\obj\x86\Debug\FillsAndPrintsMatrixC.pdb

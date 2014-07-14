@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\8.MaximalSumOfAnArray\bin\Debug\8.MaximalSumOfAnArray.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\8.MaximalSumOfAnArray\bin\Debug\8.MaximalSumOfAnArray.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\8.MaximalSumOfAnArray\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\8.MaximalSumOfAnArray\obj\x86\Debug\8.MaximalSumOfAnArray.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\8.MaximalSumOfAnArray\obj\x86\Debug\8.MaximalSumOfAnArray.pdb

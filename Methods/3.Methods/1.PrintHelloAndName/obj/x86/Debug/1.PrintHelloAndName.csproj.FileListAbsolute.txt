@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\1.PrintHelloAndName\bin\Debug\1.PrintHelloAndName.exe
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\1.PrintHelloAndName\bin\Debug\1.PrintHelloAndName.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\1.PrintHelloAndName\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\1.PrintHelloAndName\obj\x86\Debug\1.PrintHelloAndName.exe
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\1.PrintHelloAndName\obj\x86\Debug\1.PrintHelloAndName.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\5.CalculatingTheWorkdays\bin\Release\5.CalculatingTheWorkdays.exe
-C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\5.CalculatingTheWorkdays\bin\Release\5.CalculatingTheWorkdays.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\5.CalculatingTheWorkdays\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\5.CalculatingTheWorkdays\obj\x86\Release\5.CalculatingTheWorkdays.exe
-C:\Downloads\Telerik\Homework\C#-Part2\5.UsingClassesAndObjects\5.CalculatingTheWorkdays\obj\x86\Release\5.CalculatingTheWorkdays.pdb

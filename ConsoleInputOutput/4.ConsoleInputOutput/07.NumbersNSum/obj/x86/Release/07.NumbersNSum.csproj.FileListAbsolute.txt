@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\07.NumbersNSum\bin\Release\07.NumbersNSum.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\07.NumbersNSum\bin\Release\07.NumbersNSum.pdb
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\07.NumbersNSum\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\07.NumbersNSum\obj\x86\Release\07.NumbersNSum.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\07.NumbersNSum\obj\x86\Release\07.NumbersNSum.pdb

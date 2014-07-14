@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\02.CirclePerimeterAndArea\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\02.CirclePerimeterAndArea\bin\Release\02.CirclePerimeterAndArea.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\02.CirclePerimeterAndArea\bin\Release\02.CirclePerimeterAndArea.pdb
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\02.CirclePerimeterAndArea\obj\x86\Release\02.CirclePerimeterAndArea.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\02.CirclePerimeterAndArea\obj\x86\Release\02.CirclePerimeterAndArea.pdb

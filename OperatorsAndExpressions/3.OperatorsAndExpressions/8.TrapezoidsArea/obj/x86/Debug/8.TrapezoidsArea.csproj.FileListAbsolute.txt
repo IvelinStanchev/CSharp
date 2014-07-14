@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\8.TrapezoidsArea\bin\Debug\8.TrapezoidsArea.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\8.TrapezoidsArea\bin\Debug\8.TrapezoidsArea.pdb
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\8.TrapezoidsArea\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\8.TrapezoidsArea\obj\x86\Debug\8.TrapezoidsArea.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\8.TrapezoidsArea\obj\x86\Debug\8.TrapezoidsArea.pdb

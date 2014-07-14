@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\08.IntDoubleOrString\bin\Debug\08.IntDoubleOrString.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\08.IntDoubleOrString\bin\Debug\08.IntDoubleOrString.pdb
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\08.IntDoubleOrString\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\08.IntDoubleOrString\obj\x86\Debug\08.IntDoubleOrString.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\08.IntDoubleOrString\obj\x86\Debug\08.IntDoubleOrString.pdb

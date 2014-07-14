@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\12.OutputsAMatrix\bin\Debug\12.OutputsAMatrix.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\12.OutputsAMatrix\bin\Debug\12.OutputsAMatrix.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\12.OutputsAMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\12.OutputsAMatrix\obj\x86\Debug\12.OutputsAMatrix.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\12.OutputsAMatrix\obj\x86\Debug\12.OutputsAMatrix.pdb

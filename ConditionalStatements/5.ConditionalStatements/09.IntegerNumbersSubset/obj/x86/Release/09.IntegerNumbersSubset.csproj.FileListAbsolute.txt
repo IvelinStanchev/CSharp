@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\09.IntegerNumbersSubset\bin\Release\09.IntegerNumbersSubset.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\09.IntegerNumbersSubset\bin\Release\09.IntegerNumbersSubset.pdb
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\09.IntegerNumbersSubset\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\09.IntegerNumbersSubset\obj\x86\Release\09.IntegerNumbersSubset.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\09.IntegerNumbersSubset\obj\x86\Release\09.IntegerNumbersSubset.pdb

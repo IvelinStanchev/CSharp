@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\8.AddingTwoIntegers\bin\Debug\8.AddingTwoIntegers.exe
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\8.AddingTwoIntegers\bin\Debug\8.AddingTwoIntegers.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\8.AddingTwoIntegers\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\8.AddingTwoIntegers\obj\x86\Debug\8.AddingTwoIntegers.exe
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\8.AddingTwoIntegers\obj\x86\Debug\8.AddingTwoIntegers.pdb

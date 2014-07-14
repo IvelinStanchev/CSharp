@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\18.ExtractingEmailAddressesFromAText\bin\Release\18.ExtractingEmailAddressesFromAText.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\18.ExtractingEmailAddressesFromAText\bin\Release\18.ExtractingEmailAddressesFromAText.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\18.ExtractingEmailAddressesFromAText\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\18.ExtractingEmailAddressesFromAText\obj\x86\Release\18.ExtractingEmailAddressesFromAText.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\18.ExtractingEmailAddressesFromAText\obj\x86\Release\18.ExtractingEmailAddressesFromAText.pdb

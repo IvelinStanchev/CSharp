@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\21.CombinationsOfANumber\bin\Release\21.CombinationsOfANumber.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\21.CombinationsOfANumber\bin\Release\21.CombinationsOfANumber.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\21.CombinationsOfANumber\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\21.CombinationsOfANumber\obj\x86\Release\21.CombinationsOfANumber.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\21.CombinationsOfANumber\obj\x86\Release\21.CombinationsOfANumber.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.exe
-C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\1.SquareRoot\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\1.SquareRoot\obj\x86\Debug\1.SquareRoot.exe
-C:\Downloads\Telerik\Homework\C#-Part2\6.ExceptionHandling\1.SquareRoot\obj\x86\Debug\1.SquareRoot.pdb

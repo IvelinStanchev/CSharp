@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\10.ExtractingAllTextWithoutTheTags\bin\Release\10.ExtractingAllTextWithoutTheTags.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\10.ExtractingAllTextWithoutTheTags\bin\Release\10.ExtractingAllTextWithoutTheTags.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\10.ExtractingAllTextWithoutTheTags\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\10.ExtractingAllTextWithoutTheTags\obj\x86\Release\10.ExtractingAllTextWithoutTheTags.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\10.ExtractingAllTextWithoutTheTags\obj\x86\Release\10.ExtractingAllTextWithoutTheTags.pdb

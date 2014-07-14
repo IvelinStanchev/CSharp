@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\05.SymbolUnicode\bin\Release\05.SymbolUnicode.exe
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\05.SymbolUnicode\bin\Release\05.SymbolUnicode.pdb
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\05.SymbolUnicode\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\05.SymbolUnicode\obj\x86\Release\05.SymbolUnicode.exe
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\05.SymbolUnicode\obj\x86\Release\05.SymbolUnicode.pdb

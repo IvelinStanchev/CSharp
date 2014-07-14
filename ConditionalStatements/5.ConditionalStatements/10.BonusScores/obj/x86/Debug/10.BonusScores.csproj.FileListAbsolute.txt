@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.pdb
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\10.BonusScores\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\10.BonusScores\obj\x86\Debug\10.BonusScores.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\10.BonusScores\obj\x86\Debug\10.BonusScores.pdb

@@ -1,7 +1,0 @@
-C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\4.Numbers\bin\Release\4.Numbers.exe
-C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\4.Numbers\bin\Release\4.Numbers.pdb
-C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\4.Numbers\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\4.Numbers\obj\x86\Release\4.Numbers.exe
-C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\4.Numbers\obj\x86\Release\4.Numbers.pdb
-C:\Downloads\Telerik\Homework\C#-Part1\1.IntroProgramming\1.IntroProgramming\4.Numbers\obj\x86\Release\4.Numbers.exe
-C:\Downloads\Telerik\Homework\C#-Part1\1.IntroProgramming\1.IntroProgramming\4.Numbers\obj\x86\Release\4.Numbers.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\11.CardsFromStandardDeck\bin\Debug\11.CardsFromStandardDeck.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\11.CardsFromStandardDeck\bin\Debug\11.CardsFromStandardDeck.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\11.CardsFromStandardDeck\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\11.CardsFromStandardDeck\obj\x86\Debug\11.CardsFromStandardDeck.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\11.CardsFromStandardDeck\obj\x86\Debug\11.CardsFromStandardDeck.pdb

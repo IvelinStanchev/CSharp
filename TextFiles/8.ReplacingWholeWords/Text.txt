@@ -1,6 +1,0 @@
-HeyStart
-start
-finish
-csharpstart
-finish
-start

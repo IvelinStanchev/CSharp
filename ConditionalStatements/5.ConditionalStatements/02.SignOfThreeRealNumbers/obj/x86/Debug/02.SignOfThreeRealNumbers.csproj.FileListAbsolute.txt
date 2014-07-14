@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\02.SignOfThreeRealNumbers\bin\Debug\02.SignOfThreeRealNumbers.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\02.SignOfThreeRealNumbers\bin\Debug\02.SignOfThreeRealNumbers.pdb
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\02.SignOfThreeRealNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\02.SignOfThreeRealNumbers\obj\x86\Debug\02.SignOfThreeRealNumbers.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\02.SignOfThreeRealNumbers\obj\x86\Debug\02.SignOfThreeRealNumbers.pdb

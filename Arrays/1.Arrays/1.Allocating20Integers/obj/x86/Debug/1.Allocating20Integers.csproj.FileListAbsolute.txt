@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\1.Allocating20Integers\bin\Debug\1.Allocating20Integers.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\1.Allocating20Integers\bin\Debug\1.Allocating20Integers.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\1.Allocating20Integers\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\1.Allocating20Integers\obj\x86\Debug\1.Allocating20Integers.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\1.Allocating20Integers\obj\x86\Debug\1.Allocating20Integers.pdb

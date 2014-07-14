@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\5.SortingByTheLengthOfItsElements\bin\Release\5.SortingByTheLengthOfItsElements.exe
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\5.SortingByTheLengthOfItsElements\bin\Release\5.SortingByTheLengthOfItsElements.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\5.SortingByTheLengthOfItsElements\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\5.SortingByTheLengthOfItsElements\obj\x86\Release\5.SortingByTheLengthOfItsElements.exe
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\5.SortingByTheLengthOfItsElements\obj\x86\Release\5.SortingByTheLengthOfItsElements.pdb

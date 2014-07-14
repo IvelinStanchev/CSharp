@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\07.TheGreatestNumberOf5Ones\bin\Debug\07.TheGreatestNumberOf5Ones.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\07.TheGreatestNumberOf5Ones\bin\Debug\07.TheGreatestNumberOf5Ones.pdb
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\07.TheGreatestNumberOf5Ones\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\07.TheGreatestNumberOf5Ones\obj\x86\Debug\07.TheGreatestNumberOf5Ones.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\07.TheGreatestNumberOf5Ones\obj\x86\Debug\07.TheGreatestNumberOf5Ones.pdb

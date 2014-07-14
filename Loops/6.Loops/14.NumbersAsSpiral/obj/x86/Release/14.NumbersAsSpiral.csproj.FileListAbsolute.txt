@@ -1,7 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\14.NumbersAsSpiral\bin\Release\14.NumbersAsSpiral.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\14.NumbersAsSpiral\bin\Release\14.NumbersAsSpiral.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\14.NumbersAsSpiral\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\14.NumbersAsSpiral\obj\x86\Release\14.NumbersAsSpiral.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\14.NumbersAsSpiral\obj\x86\Release\14.NumbersAsSpiral.pdb
-C:\Downloads\Telerik\Homework\C#-Part1\6.Loops\6.Loops\14.NumbersAsSpiral\obj\x86\Release\14.NumbersAsSpiral.exe
-C:\Downloads\Telerik\Homework\C#-Part1\6.Loops\6.Loops\14.NumbersAsSpiral\obj\x86\Release\14.NumbersAsSpiral.pdb

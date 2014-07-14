@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\11.BinarySearchAlgorithm\bin\Release\11.BinarySearchAlgorithm.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\11.BinarySearchAlgorithm\bin\Release\11.BinarySearchAlgorithm.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\11.BinarySearchAlgorithm\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\11.BinarySearchAlgorithm\obj\x86\Release\11.BinarySearchAlgorithm.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\11.BinarySearchAlgorithm\obj\x86\Release\11.BinarySearchAlgorithm.pdb

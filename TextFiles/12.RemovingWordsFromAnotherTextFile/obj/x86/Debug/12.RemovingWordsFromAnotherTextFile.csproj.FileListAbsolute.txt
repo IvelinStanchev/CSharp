@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\12.RemovingWordsFromAnotherTextFile\bin\Debug\12.RemovingWordsFromAnotherTextFile.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\12.RemovingWordsFromAnotherTextFile\bin\Debug\12.RemovingWordsFromAnotherTextFile.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\12.RemovingWordsFromAnotherTextFile\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\12.RemovingWordsFromAnotherTextFile\obj\x86\Debug\12.RemovingWordsFromAnotherTextFile.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\12.RemovingWordsFromAnotherTextFile\obj\x86\Debug\12.RemovingWordsFromAnotherTextFile.pdb

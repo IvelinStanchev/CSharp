@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\01.ChangingValuesIfFirstIsGreater\bin\Debug\01.ChangingValuesIfFirstIsGreater.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\01.ChangingValuesIfFirstIsGreater\bin\Debug\01.ChangingValuesIfFirstIsGreater.pdb
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\01.ChangingValuesIfFirstIsGreater\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\01.ChangingValuesIfFirstIsGreater\obj\x86\Debug\01.ChangingValuesIfFirstIsGreater.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\01.ChangingValuesIfFirstIsGreater\obj\x86\Debug\01.ChangingValuesIfFirstIsGreater.pdb

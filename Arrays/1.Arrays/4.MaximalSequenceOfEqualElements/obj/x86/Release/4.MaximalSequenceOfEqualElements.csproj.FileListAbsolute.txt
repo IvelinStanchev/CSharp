@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\4.MaximalSequenceOfEqualElements\bin\Release\4.MaximalSequenceOfEqualElements.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\4.MaximalSequenceOfEqualElements\bin\Release\4.MaximalSequenceOfEqualElements.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\4.MaximalSequenceOfEqualElements\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\4.MaximalSequenceOfEqualElements\obj\x86\Release\4.MaximalSequenceOfEqualElements.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\4.MaximalSequenceOfEqualElements\obj\x86\Release\4.MaximalSequenceOfEqualElements.pdb

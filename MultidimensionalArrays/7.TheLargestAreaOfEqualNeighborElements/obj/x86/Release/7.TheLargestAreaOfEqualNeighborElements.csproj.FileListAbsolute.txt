@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\7.TheLargestAreaOfEqualNeighborElements\bin\Release\7.TheLargestAreaOfEqualNeighborElements.exe
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\7.TheLargestAreaOfEqualNeighborElements\bin\Release\7.TheLargestAreaOfEqualNeighborElements.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\7.TheLargestAreaOfEqualNeighborElements\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\7.TheLargestAreaOfEqualNeighborElements\obj\x86\Release\7.TheLargestAreaOfEqualNeighborElements.exe
-C:\Downloads\Telerik\Homework\C#-Part2\2.MultidimensionalArrays\7.TheLargestAreaOfEqualNeighborElements\obj\x86\Release\7.TheLargestAreaOfEqualNeighborElements.pdb

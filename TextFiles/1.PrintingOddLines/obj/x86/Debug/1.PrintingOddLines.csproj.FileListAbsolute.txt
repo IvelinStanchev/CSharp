@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\1.PrintingOddLines\bin\Debug\1.PrintingOddLines.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\1.PrintingOddLines\bin\Debug\1.PrintingOddLines.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\1.PrintingOddLines\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\1.PrintingOddLines\obj\x86\Debug\1.PrintingOddLines.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\1.PrintingOddLines\obj\x86\Debug\1.PrintingOddLines.pdb

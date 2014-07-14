@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\04.NAndKFactorial\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\04.NAndKFactorial\bin\Release\04.NAndKFactorial.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\04.NAndKFactorial\bin\Release\04.NAndKFactorial.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\04.NAndKFactorial\obj\x86\Release\04.NAndKFactorial.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\04.NAndKFactorial\obj\x86\Release\04.NAndKFactorial.pdb

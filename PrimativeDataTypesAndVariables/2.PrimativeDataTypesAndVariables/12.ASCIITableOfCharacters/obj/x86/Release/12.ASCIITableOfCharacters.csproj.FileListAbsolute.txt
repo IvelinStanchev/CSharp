@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\12.ASCIITableOfCharacters\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\12.ASCIITableOfCharacters\bin\Release\12.ASCIITableOfCharacters.exe
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\12.ASCIITableOfCharacters\bin\Release\12.ASCIITableOfCharacters.pdb
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\12.ASCIITableOfCharacters\obj\x86\Release\12.ASCIITableOfCharacters.exe
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\12.ASCIITableOfCharacters\obj\x86\Release\12.ASCIITableOfCharacters.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\06.QuadraticEquation\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\06.QuadraticEquation\obj\x86\Debug\06.QuadraticEquation.exe
-C:\Downloads\Telerik\Homework\5.ConditionalStatements\5.ConditionalStatements\06.QuadraticEquation\obj\x86\Debug\06.QuadraticEquation.pdb

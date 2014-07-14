@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\3.RectanglesArea\bin\Release\3.RectanglesArea.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\3.RectanglesArea\bin\Release\3.RectanglesArea.pdb
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\3.RectanglesArea\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\3.RectanglesArea\obj\x86\Release\3.RectanglesArea.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\3.RectanglesArea\obj\x86\Release\3.RectanglesArea.pdb

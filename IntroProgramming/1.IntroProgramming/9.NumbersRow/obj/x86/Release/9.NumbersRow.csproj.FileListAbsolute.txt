@@ -1,7 +1,0 @@
-C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\9.NumbersRow\bin\Release\9.NumbersRow.exe
-C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\9.NumbersRow\bin\Release\9.NumbersRow.pdb
-C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\9.NumbersRow\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\9.NumbersRow\obj\x86\Release\9.NumbersRow.exe
-C:\Downloads\Telerik\Homework\1.IntroProgramming\1.IntroProgramming\9.NumbersRow\obj\x86\Release\9.NumbersRow.pdb
-C:\Downloads\Telerik\Homework\C#-Part1\1.IntroProgramming\1.IntroProgramming\9.NumbersRow\obj\x86\Release\9.NumbersRow.exe
-C:\Downloads\Telerik\Homework\C#-Part1\1.IntroProgramming\1.IntroProgramming\9.NumbersRow\obj\x86\Release\9.NumbersRow.pdb

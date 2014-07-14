@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\13.SolvingSeveralTasks\bin\Release\13.SolvingSeveralTasks.exe
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\13.SolvingSeveralTasks\bin\Release\13.SolvingSeveralTasks.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\13.SolvingSeveralTasks\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\13.SolvingSeveralTasks\obj\x86\Release\13.SolvingSeveralTasks.exe
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\13.SolvingSeveralTasks\obj\x86\Release\13.SolvingSeveralTasks.pdb

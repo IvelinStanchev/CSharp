@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\08.TheGreatestCommonDivisor\bin\Debug\08.TheGreatestCommonDivisor.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\08.TheGreatestCommonDivisor\bin\Debug\08.TheGreatestCommonDivisor.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\08.TheGreatestCommonDivisor\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\08.TheGreatestCommonDivisor\obj\x86\Debug\08.TheGreatestCommonDivisor.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\08.TheGreatestCommonDivisor\obj\x86\Debug\08.TheGreatestCommonDivisor.pdb

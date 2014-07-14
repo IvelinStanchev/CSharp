@@ -1,7 +1,0 @@
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\01.AppropriateTypes\bin\Release\01.AppropriateTypes.exe
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\01.AppropriateTypes\bin\Release\01.AppropriateTypes.pdb
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\01.AppropriateTypes\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\01.AppropriateTypes\obj\x86\Release\01.AppropriateTypes.exe
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\01.AppropriateTypes\obj\x86\Release\01.AppropriateTypes.pdb
-C:\Downloads\Telerik\Homework\C#-Part1\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\01.AppropriateTypes\obj\x86\Release\01.AppropriateTypes.exe
-C:\Downloads\Telerik\Homework\C#-Part1\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\01.AppropriateTypes\obj\x86\Release\01.AppropriateTypes.pdb

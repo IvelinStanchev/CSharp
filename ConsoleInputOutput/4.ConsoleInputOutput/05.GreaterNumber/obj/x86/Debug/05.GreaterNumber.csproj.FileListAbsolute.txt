@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\05.GreaterNumber\bin\Debug\05.GreaterNumber.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\05.GreaterNumber\bin\Debug\05.GreaterNumber.pdb
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\05.GreaterNumber\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\05.GreaterNumber\obj\x86\Debug\05.GreaterNumber.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\05.GreaterNumber\obj\x86\Debug\05.GreaterNumber.pdb

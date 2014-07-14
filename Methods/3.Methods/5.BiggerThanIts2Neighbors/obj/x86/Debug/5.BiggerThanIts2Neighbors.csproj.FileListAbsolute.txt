@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\5.BiggerThanIts2Neighbors\bin\Debug\5.BiggerThanIts2Neighbors.exe
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\5.BiggerThanIts2Neighbors\bin\Debug\5.BiggerThanIts2Neighbors.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\5.BiggerThanIts2Neighbors\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\5.BiggerThanIts2Neighbors\obj\x86\Debug\5.BiggerThanIts2Neighbors.exe
-C:\Downloads\Telerik\Homework\C#-Part2\3.Methods\3.Methods\5.BiggerThanIts2Neighbors\obj\x86\Debug\5.BiggerThanIts2Neighbors.pdb

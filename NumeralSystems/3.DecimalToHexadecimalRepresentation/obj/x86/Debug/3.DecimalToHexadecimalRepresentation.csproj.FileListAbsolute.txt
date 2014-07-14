@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\3.DecimalToHexadecimalRepresentation\bin\Debug\3.DecimalToHexadecimalRepresentation.exe
-C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\3.DecimalToHexadecimalRepresentation\bin\Debug\3.DecimalToHexadecimalRepresentation.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\3.DecimalToHexadecimalRepresentation\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\3.DecimalToHexadecimalRepresentation\obj\x86\Debug\3.DecimalToHexadecimalRepresentation.exe
-C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\3.DecimalToHexadecimalRepresentation\obj\x86\Debug\3.DecimalToHexadecimalRepresentation.pdb

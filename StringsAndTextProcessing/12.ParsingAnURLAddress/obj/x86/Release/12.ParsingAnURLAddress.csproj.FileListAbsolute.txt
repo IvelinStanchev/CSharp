@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\12.ParsingAnURLAddress\bin\Release\12.ParsingAnURLAddress.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\12.ParsingAnURLAddress\bin\Release\12.ParsingAnURLAddress.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\12.ParsingAnURLAddress\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\12.ParsingAnURLAddress\obj\x86\Release\12.ParsingAnURLAddress.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\12.ParsingAnURLAddress\obj\x86\Release\12.ParsingAnURLAddress.pdb

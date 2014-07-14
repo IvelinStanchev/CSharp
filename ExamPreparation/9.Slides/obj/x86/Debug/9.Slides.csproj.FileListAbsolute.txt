@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\9.Slides\bin\Debug\9.Slides.exe
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\9.Slides\bin\Debug\9.Slides.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\9.Slides\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\9.Slides\obj\x86\Debug\9.Slides.exe
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\9.Slides\obj\x86\Debug\9.Slides.pdb

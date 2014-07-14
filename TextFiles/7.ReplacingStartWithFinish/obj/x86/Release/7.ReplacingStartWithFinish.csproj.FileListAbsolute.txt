@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\7.ReplacingStartWithFinish\bin\Release\7.ReplacingStartWithFinish.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\7.ReplacingStartWithFinish\bin\Release\7.ReplacingStartWithFinish.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\7.ReplacingStartWithFinish\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\7.ReplacingStartWithFinish\obj\x86\Release\7.ReplacingStartWithFinish.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\7.ReplacingStartWithFinish\obj\x86\Release\7.ReplacingStartWithFinish.pdb

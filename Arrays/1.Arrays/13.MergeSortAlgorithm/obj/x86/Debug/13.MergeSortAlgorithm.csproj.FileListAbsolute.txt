@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\13.MergeSortAlgorithm\bin\Debug\13.MergeSortAlgorithm.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\13.MergeSortAlgorithm\bin\Debug\13.MergeSortAlgorithm.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\13.MergeSortAlgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\13.MergeSortAlgorithm\obj\x86\Debug\13.MergeSortAlgorithm.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\13.MergeSortAlgorithm\obj\x86\Debug\13.MergeSortAlgorithm.pdb

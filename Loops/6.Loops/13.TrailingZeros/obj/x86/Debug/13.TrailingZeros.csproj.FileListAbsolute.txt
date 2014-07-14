@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\13.TrailingZeros\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\13.TrailingZeros\obj\x86\Debug\13.TrailingZeros.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\13.TrailingZeros\obj\x86\Debug\13.TrailingZeros.pdb

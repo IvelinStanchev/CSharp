@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\bin\Debug\13.ExchangingBits.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\bin\Debug\13.ExchangingBits.pdb
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\obj\x86\Debug\13.ExchangingBits.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\13.ExchangingBits\obj\x86\Debug\13.ExchangingBits.pdb

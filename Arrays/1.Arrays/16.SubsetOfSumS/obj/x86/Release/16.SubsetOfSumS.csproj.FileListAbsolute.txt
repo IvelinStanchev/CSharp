@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\16.SubsetOfSumS\bin\Release\16.SubsetOfSumS.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\16.SubsetOfSumS\bin\Release\16.SubsetOfSumS.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\16.SubsetOfSumS\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\16.SubsetOfSumS\obj\x86\Release\16.SubsetOfSumS.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\16.SubsetOfSumS\obj\x86\Release\16.SubsetOfSumS.pdb

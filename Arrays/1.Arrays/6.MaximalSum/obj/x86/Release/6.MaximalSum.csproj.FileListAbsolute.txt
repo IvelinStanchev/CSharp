@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\6.MaximalSum\bin\Release\6.MaximalSum.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\6.MaximalSum\bin\Release\6.MaximalSum.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\6.MaximalSum\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\6.MaximalSum\obj\x86\Release\6.MaximalSum.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\6.MaximalSum\obj\x86\Release\6.MaximalSum.pdb

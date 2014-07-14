@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\4.ComparingTwoFilesLineByLine\bin\Debug\4.ComparingTwoFilesLineByLine.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\4.ComparingTwoFilesLineByLine\bin\Debug\4.ComparingTwoFilesLineByLine.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\4.ComparingTwoFilesLineByLine\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\4.ComparingTwoFilesLineByLine\obj\x86\Debug\4.ComparingTwoFilesLineByLine.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\4.ComparingTwoFilesLineByLine\obj\x86\Debug\4.ComparingTwoFilesLineByLine.pdb

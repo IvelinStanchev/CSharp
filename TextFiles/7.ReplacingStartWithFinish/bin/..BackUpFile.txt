@@ -1,7 +1,0 @@
-heyStart
-finish
-CsharpStart
-finish
-Start
-finish
-finish

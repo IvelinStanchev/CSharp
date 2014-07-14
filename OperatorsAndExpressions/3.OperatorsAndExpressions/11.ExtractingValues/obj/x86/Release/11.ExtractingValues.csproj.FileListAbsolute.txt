@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\11.ExtractingValues\bin\Release\11.ExtractingValues.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\11.ExtractingValues\bin\Release\11.ExtractingValues.pdb
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\11.ExtractingValues\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\11.ExtractingValues\obj\x86\Release\11.ExtractingValues.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\11.ExtractingValues\obj\x86\Release\11.ExtractingValues.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\08.TwoStringWays\bin\Release\08.TwoStringWays.exe
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\08.TwoStringWays\bin\Release\08.TwoStringWays.pdb
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\08.TwoStringWays\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\08.TwoStringWays\obj\x86\Release\08.TwoStringWays.exe
-C:\Downloads\Telerik\Homework\2.PrimativeDataTypesAndVariables\2.PrimativeDataTypesAndVariables\08.TwoStringWays\obj\x86\Release\08.TwoStringWays.pdb

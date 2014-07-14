@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\22.WordsCount\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\22.WordsCount\bin\Release\22.WordsCount.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\22.WordsCount\bin\Release\22.WordsCount.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\22.WordsCount\obj\x86\Release\22.WordsCount.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\22.WordsCount\obj\x86\Release\22.WordsCount.pdb

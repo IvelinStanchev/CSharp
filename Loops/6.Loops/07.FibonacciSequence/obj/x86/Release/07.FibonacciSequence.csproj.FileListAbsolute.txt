@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\07.FibonacciSequence\bin\Release\07.FibonacciSequence.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\07.FibonacciSequence\bin\Release\07.FibonacciSequence.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\07.FibonacciSequence\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\07.FibonacciSequence\obj\x86\Release\07.FibonacciSequence.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\07.FibonacciSequence\obj\x86\Release\07.FibonacciSequence.pdb

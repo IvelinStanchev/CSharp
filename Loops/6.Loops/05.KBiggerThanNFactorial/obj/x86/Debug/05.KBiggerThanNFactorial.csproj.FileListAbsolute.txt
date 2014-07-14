@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\05.KBiggerThanNFactorial\bin\Debug\05.KBiggerThanNFactorial.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\05.KBiggerThanNFactorial\bin\Debug\05.KBiggerThanNFactorial.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\05.KBiggerThanNFactorial\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\05.KBiggerThanNFactorial\obj\x86\Debug\05.KBiggerThanNFactorial.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\05.KBiggerThanNFactorial\obj\x86\Debug\05.KBiggerThanNFactorial.pdb

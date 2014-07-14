@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\7.PrimeInteger\bin\Debug\7.PrimeInteger.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\7.PrimeInteger\bin\Debug\7.PrimeInteger.pdb
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\7.PrimeInteger\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\7.PrimeInteger\obj\x86\Debug\7.PrimeInteger.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\7.PrimeInteger\obj\x86\Debug\7.PrimeInteger.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\06.NAndXSum\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\06.NAndXSum\bin\Release\06.NAndXSum.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\06.NAndXSum\bin\Release\06.NAndXSum.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\06.NAndXSum\obj\x86\Release\06.NAndXSum.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\06.NAndXSum\obj\x86\Release\06.NAndXSum.pdb

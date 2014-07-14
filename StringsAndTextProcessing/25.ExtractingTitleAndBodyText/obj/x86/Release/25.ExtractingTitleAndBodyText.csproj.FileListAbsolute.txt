@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\25.ExtractingTitleAndBodyText\bin\Release\25.ExtractingTitleAndBodyText.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\25.ExtractingTitleAndBodyText\bin\Release\25.ExtractingTitleAndBodyText.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\25.ExtractingTitleAndBodyText\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\25.ExtractingTitleAndBodyText\obj\x86\Release\25.ExtractingTitleAndBodyText.exe
-C:\Downloads\Telerik\Homework\C#-Part2\8.StringsAndTextProcessing\25.ExtractingTitleAndBodyText\obj\x86\Release\25.ExtractingTitleAndBodyText.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\03.MinimalAndMaximalOfSequenceOfNumbers\bin\Release\03.MinimalAndMaximalOfSequenceOfNumbers.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\03.MinimalAndMaximalOfSequenceOfNumbers\bin\Release\03.MinimalAndMaximalOfSequenceOfNumbers.pdb
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\03.MinimalAndMaximalOfSequenceOfNumbers\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\03.MinimalAndMaximalOfSequenceOfNumbers\obj\x86\Release\03.MinimalAndMaximalOfSequenceOfNumbers.exe
-C:\Downloads\Telerik\Homework\6.Loops\6.Loops\03.MinimalAndMaximalOfSequenceOfNumbers\obj\x86\Release\03.MinimalAndMaximalOfSequenceOfNumbers.pdb

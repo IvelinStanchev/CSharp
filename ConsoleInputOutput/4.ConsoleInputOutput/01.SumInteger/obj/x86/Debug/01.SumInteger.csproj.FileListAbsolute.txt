@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\01.SumInteger\bin\Debug\01.SumInteger.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\01.SumInteger\bin\Debug\01.SumInteger.pdb
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\01.SumInteger\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\01.SumInteger\obj\x86\Debug\01.SumInteger.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\01.SumInteger\obj\x86\Debug\01.SumInteger.pdb

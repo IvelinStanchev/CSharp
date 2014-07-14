@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\08.PrintingOnSingleLine\bin\Release\08.PrintingOnSingleLine.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\08.PrintingOnSingleLine\bin\Release\08.PrintingOnSingleLine.pdb
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\08.PrintingOnSingleLine\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\08.PrintingOnSingleLine\obj\x86\Release\08.PrintingOnSingleLine.exe
-C:\Downloads\Telerik\Homework\4.ConsoleInputOutput\4.ConsoleInputOutput\08.PrintingOnSingleLine\obj\x86\Release\08.PrintingOnSingleLine.pdb

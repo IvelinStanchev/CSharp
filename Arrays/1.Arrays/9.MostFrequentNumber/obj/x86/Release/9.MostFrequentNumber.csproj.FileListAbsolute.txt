@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\9.MostFrequentNumber\bin\Release\9.MostFrequentNumber.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\9.MostFrequentNumber\bin\Release\9.MostFrequentNumber.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\9.MostFrequentNumber\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\9.MostFrequentNumber\obj\x86\Release\9.MostFrequentNumber.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\9.MostFrequentNumber\obj\x86\Release\9.MostFrequentNumber.pdb

@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\11.DeletingAllWordsStartingWithThePrefixTest\bin\Debug\11.DeletingAllWordsStartingWithThePrefixTest.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\11.DeletingAllWordsStartingWithThePrefixTest\bin\Debug\11.DeletingAllWordsStartingWithThePrefixTest.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\11.DeletingAllWordsStartingWithThePrefixTest\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\11.DeletingAllWordsStartingWithThePrefixTest\obj\x86\Debug\11.DeletingAllWordsStartingWithThePrefixTest.exe
-C:\Downloads\Telerik\Homework\C#-Part2\7.TextFiles\11.DeletingAllWordsStartingWithThePrefixTest\obj\x86\Debug\11.DeletingAllWordsStartingWithThePrefixTest.pdb

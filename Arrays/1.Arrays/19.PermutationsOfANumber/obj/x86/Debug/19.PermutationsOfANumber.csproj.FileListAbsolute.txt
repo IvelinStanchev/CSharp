@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\19.PermutationsOfANumber\bin\Debug\19.PermutationsOfANumber.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\19.PermutationsOfANumber\bin\Debug\19.PermutationsOfANumber.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\19.PermutationsOfANumber\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\19.PermutationsOfANumber\obj\x86\Debug\19.PermutationsOfANumber.exe
-C:\Downloads\Telerik\Homework\C#-Part2\1.Arrays\1.Arrays\19.PermutationsOfANumber\obj\x86\Debug\19.PermutationsOfANumber.pdb

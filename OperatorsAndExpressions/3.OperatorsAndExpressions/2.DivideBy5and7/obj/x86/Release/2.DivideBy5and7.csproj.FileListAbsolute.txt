@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\2.DivideBy5and7\bin\Release\2.DivideBy5and7.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\2.DivideBy5and7\bin\Release\2.DivideBy5and7.pdb
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\2.DivideBy5and7\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\2.DivideBy5and7\obj\x86\Release\2.DivideBy5and7.exe
-C:\Downloads\Telerik\Homework\3.OperatorsAndExpressions\3.OperatorsAndExpressions\2.DivideBy5and7\obj\x86\Release\2.DivideBy5and7.pdb

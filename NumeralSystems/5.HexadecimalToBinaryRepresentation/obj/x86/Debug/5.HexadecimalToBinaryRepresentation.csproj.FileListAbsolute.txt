@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\5.HexadecimalToBinaryRepresentation\bin\Debug\5.HexadecimalToBinaryRepresentation.exe
-C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\5.HexadecimalToBinaryRepresentation\bin\Debug\5.HexadecimalToBinaryRepresentation.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\5.HexadecimalToBinaryRepresentation\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\5.HexadecimalToBinaryRepresentation\obj\x86\Debug\5.HexadecimalToBinaryRepresentation.exe
-C:\Downloads\Telerik\Homework\C#-Part2\4.NumeralSystems\5.HexadecimalToBinaryRepresentation\obj\x86\Debug\5.HexadecimalToBinaryRepresentation.pdb

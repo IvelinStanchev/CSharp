@@ -1,5 +1,0 @@
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\8.Laser\bin\Release\8.Laser.exe
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\8.Laser\bin\Release\8.Laser.pdb
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\8.Laser\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\8.Laser\obj\x86\Release\8.Laser.exe
-C:\Downloads\Telerik\Homework\C#-Part2\ExamPreparation\8.Laser\obj\x86\Release\8.Laser.pdb
